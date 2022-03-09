@@ -1,7 +1,7 @@
 # Image-Classification
 
 
-This is a LeNet CNN  model based image classiifier that uses the GTSRB database. The German Traffic Sign Recognition Benchmark (GTSRB) contains 43 classes
+This is a LeNet CNN  model based image classifier that uses the GTSRB database. The German Traffic Sign Recognition Benchmark (GTSRB) contains 43 classes
 of trafficsigns,split into 39,209 training images and 12,630 test images. You can donwload the database from https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 This project was done in Google Colab, but you can mirror the project in a virtual enviornment by isntall neccessary depenencies.
