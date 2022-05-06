@@ -12,10 +12,15 @@ This project was done in Google Colab, but you can mirror the project in a virtu
 
 ### Libraries used
 • numpy
+
 • Tensorflow (v. 2.8.0)
+
 • keras
+
 • cv2
+
 • scikit-learn
+
 • Pillow
 
 
